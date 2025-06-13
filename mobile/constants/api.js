@@ -1,0 +1,1 @@
+export const API_URL = "https://persnal-wallet-api.onrender.com/api";
