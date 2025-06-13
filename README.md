@@ -115,22 +115,6 @@ Pull requests are welcome! Open issues for bugs and feature requests.
 📄 License
 MIT © Priyanshu Yadav
 
-yaml
-Copy
-Edit
-
----
-
-## 🪄 Step 3: Add Visuals
-
-- Record demo on Expo Go → turn into GIF using **Screentogif** or **Kap**
-- Place GIFs in `assets/` folder
-- Embed with: `![alt](assets/filename.gif)`
-
----
-
-### ✅ Want me to auto-create the README.md and commit it?
-
 If yes:
 - Let me know if you’ve renamed/moved folders (e.g. `backend/`, `mobile/`)
 - I’ll generate a ready-to-paste Markdown or a Git commit diff
